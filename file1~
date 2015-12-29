@@ -1,6 +1,9 @@
 this is file1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 changed on bra
 =======
 changed in master
 >>>>>>> master
+=======
+>>>>>>> Stashed changes
