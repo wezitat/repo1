@@ -1,0 +1,6 @@
+this is file1
+<<<<<<< HEAD
+changed on bra
+=======
+changed in master
+>>>>>>> master
